@@ -3,6 +3,7 @@ import requests
 from tqdm.auto import tqdm
 import pandas as pd
 
+
 sber = '3529'
 page = 1
 num_per_page = 100
